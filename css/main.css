@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+p{
+color:#1C0A00;
+font-size: 32px;
+font-family: 'Lobster', cursive;
+margin: 30px;
+}
+
+body{
+	background: #603601;
+}
+span{background: #603601;}
+h1{
+	font-size: 56px;
+	color: #361500;
+	font-family: 'Caveat', cursive;
+}
+a{
+	font-size: 20px;
+	text-decoration: none;
+	color: #361500;
+	display: block;
+	margin: 20px 0;	
+}
+img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+div{
+	width: 90%;
+	margin: auto;
+	background-color: #CC9544;
+	padding: 50px;
+}
